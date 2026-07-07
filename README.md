@@ -37,7 +37,7 @@ When I'm not coding, you'll probably find me singing, vibing to music, dancing l
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-## projects i've built
+## projects i've built </>
 
 🌾 [KrishiGalaxy(SIH-2025 Project)](https://github.com/Alokbabu17/Krishi-Galaxy29.git):
 An AI-powered smart farming platform featuring **KrishiLexa**-a voice assistant for real-time crop guidance, OpenCV-based pest detection and real time monitoring.
@@ -48,10 +48,10 @@ A simple html css based website that introduces popular AI tools and explains th
 👨‍🎓 [Seniors4Juniors](https://github.com/Khushi-jaiswal20/Seniors4Juniors.git):
 A platform where seniors can share interview experiences, placement guidance, and helpful resources for juniors.
 
- 📅 [Event Management System](https://github.com/Khushi-jaiswal20/SQL.git)
+ 📅 [Event Management System](https://github.com/Khushi-jaiswal20/SQL.git):
 A MySQL-based event management system for organizing events, managing registrations, participants, schedules, and event details efficiently.
  
-🦠 [COVID-19 Data Analysis](https://github.com/Khushi-jaiswal20/Covid-19-Data-Analysis.git)
+🦠 [COVID-19 Data Analysis](https://github.com/Khushi-jaiswal20/Covid-19-Data-Analysis.git):
 A Python-based data analysis project using **Pandas**, **NumPy**, and **Matplotlib** in Jupyter Notebook to explore, visualize, and derive insights from COVID-19 datasets.
 
 ---
