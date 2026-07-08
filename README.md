@@ -42,6 +42,9 @@ When I'm not coding, you'll probably find me singing, vibing to music, dancing l
 🌾 [KrishiGalaxy(SIH-2025 Project)](https://github.com/Alokbabu17/Krishi-Galaxy29.git):
 An AI-powered smart farming platform featuring **KrishiLexa**-a voice assistant for real-time crop guidance, OpenCV-based pest detection and real time monitoring.
 
+🔍[SkillyLens](https://github.com/Khushi-jaiswal20/Skillylens.git) – "See the Gap, Bridge the Path"
+AI-powered platform for resume analysis, ATS evaluation, skill gap detection, and personalized career guidance.
+
 🤖 [AIpedia](https://github.com/Khushi-jaiswal20/AIpedia.git):
 A simple html css based website that introduces popular AI tools and explains their use cases.
 
